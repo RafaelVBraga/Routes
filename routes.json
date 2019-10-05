@@ -1,0 +1,69 @@
+[ {
+  "id" : null,
+  "routePlan" : "Rota Shoppings",
+  "assignedVehicle" : 1,
+  "plannedStops" : [ {
+    "id" : null,
+    "description" : "Rio Mar Kennedy",
+    "lat" : -3.72737133,
+    "lng" : -38.56690139,
+    "deliveryRadius" : 300.0,
+    "status" : "Pendente"
+  }, {
+    "id" : null,
+    "description" : "North Shopping",
+    "lat" : -3.73581843,
+    "lng" : -38.56615037,
+    "deliveryRadius" : 200.0,
+    "status" : "Pendente"
+  }, {
+    "id" : null,
+    "description" : "Shopping Benfica",
+    "lat" : -3.73908912,
+    "lng" : -38.54015976,
+    "deliveryRadius" : 150.0,
+    "status" : "Pendente"
+  }, {
+    "id" : null,
+    "description" : "Shopping Jockey",
+    "lat" : -3.7647082,
+    "lng" : -38.57506067,
+    "deliveryRadius" : 500.0,
+    "status" : "Pendente"
+  } ],
+  "status" : "Pendente"
+}, {
+  "id" : null,
+  "routePlan" : "Faculdades",
+  "assignedVehicle" : 2,
+  "plannedStops" : [ {
+    "id" : null,
+    "description" : "UFC - Universidade Federal do Ceará",
+    "lat" : -3.74249362,
+    "lng" : -38.57471198,
+    "deliveryRadius" : 1000.0,
+    "status" : "Pendente"
+  }, {
+    "id" : null,
+    "description" : "Estácio Fic _ Parangaba",
+    "lat" : -3.76676369,
+    "lng" : -38.57487559,
+    "deliveryRadius" : 150.0,
+    "status" : "Pendente"
+  }, {
+    "id" : null,
+    "description" : "Uece - Universidade Estadual do Ceará",
+    "lat" : -3.78621565,
+    "lng" : -38.55175763,
+    "deliveryRadius" : 500.0,
+    "status" : "Pendente"
+  }, {
+    "id" : null,
+    "description" : "Estácio Fic - Moreira Campos",
+    "lat" : -3.74232768,
+    "lng" : -38.50146621,
+    "deliveryRadius" : 300.0,
+    "status" : "Pendente"
+  } ],
+  "status" : "Pendente"
+} ]
